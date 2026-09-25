@@ -1,0 +1,3 @@
+# Bienvenidos y bienvenidas a mi fichero saludo.md
+En este fichero saludo.md, las etiquetas HTML como  <strong>negrita</strong> no funcionarán, pero sí funcionarán las etiquetas markdown como por ejemplo **negrita**
+
